@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/golfREACT/static/css/main.430a588b.css",
+    "main.js": "/golfREACT/static/js/main.70ece68e.js",
+    "static/js/453.07d7baeb.chunk.js": "/golfREACT/static/js/453.07d7baeb.chunk.js",
+    "index.html": "/golfREACT/index.html",
+    "main.430a588b.css.map": "/golfREACT/static/css/main.430a588b.css.map",
+    "main.70ece68e.js.map": "/golfREACT/static/js/main.70ece68e.js.map",
+    "453.07d7baeb.chunk.js.map": "/golfREACT/static/js/453.07d7baeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.430a588b.css",
+    "static/js/main.70ece68e.js"
+  ]
+}
