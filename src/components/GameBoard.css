@@ -1,0 +1,32 @@
+
+
+.game-board {
+    position: relative;
+    width: 500px;
+    height: 400px;
+    background-color: #4caf50; 
+    border: 2px solid #388e3c;
+    margin: 20px auto;
+    overflow: hidden;
+    cursor: crosshair;
+  }
+  
+  .game-over {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border: 2px solid #000;
+    text-align: center;
+  }
+  
+  .aim-line {
+    position: absolute;
+    width: 2px;
+    height: 100px;
+    background-color: red;
+    transform-origin: bottom;
+  }
+  
